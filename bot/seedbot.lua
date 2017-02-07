@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {144658773},--Sudo users                               
+    sudo_users = {238886119},--Sudo users                               
   disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -338,7 +338,7 @@ Group description
 !setphoto
 Set and locks group photo
 
-!setname [name]
+!setname [hacker]
 Set group name
 
 !rules
@@ -373,7 +373,7 @@ returns group link
 !owner
 returns group owner id
 
-!setowner [id]
+!setowner [238886119]
 Will set id as owner
 
 !setflood [value]
